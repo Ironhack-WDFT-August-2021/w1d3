@@ -12,8 +12,8 @@ function prefix(input) {
 }
 
 const prefixedBeatles = prefix(beatles);
-console.log(prefixedBeatles)
-console.log(beatles)
+console.log(prefixedBeatles);
+console.log(beatles);
 
 console.clear()
 
@@ -34,6 +34,7 @@ const arr = [2, 4];
 // spread operator
 const arrCopy = [...arr]
 
+// you can visualize this here : http://www.pythontutor.com/
 
 // for more complex arrays
 // JSON.stringify() -> this turns an object into a string
